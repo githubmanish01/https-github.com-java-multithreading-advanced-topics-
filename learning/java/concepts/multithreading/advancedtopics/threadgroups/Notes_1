@@ -1,0 +1,1 @@
+setMaxPriority method of the ThreadGroup class will only effect the newly created thread post setting of maximum priority. Threads created earlier to this will remain as it is with their old priorities.
